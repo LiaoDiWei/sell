@@ -4,3 +4,6 @@
 教程采用的是vue1.0版本，该版本为2.x版本，语法上略有不同，可对照官方文档自行修改
 
 just a webapp based  on eleme.webapp
+
+这是链接：http://liaodiwei.coding.me/eleme-webapp/#/goods
+这是二维码：![image](http://liaodiwei.coding.me/eleme/saoyisao.png)
